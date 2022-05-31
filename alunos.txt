@@ -1,0 +1,30 @@
+-----------------------
+UNIVERSIDADE ANHANGUERA
+-----------------------
+Aluno 1
+- Nome: Romilson Luis
+- CPF: 047.000.000.81
+- Mãe: Ivani Skjlklk khkhkhk
+- Data de Nascimento: 17/01/22222
+- Idade: 90
+- Série: 4 semestre da faculdade
+-----------------------
+Aluno 2
+- Nome: Romilson Luis 
+- CPF: 047.800.800.80
+- Mãe: Ivani JJJJJJJJ
+- Data de Nascimento: 01/02/1800
+- Idade: 100 anos 
+- Série: 9º periodo 
+- faculdade: Anhanguera 
+-----------------------
+Aluno 3
+- Nome: Romilson Luis 
+- CPF: 047.888.888.88
+- Mãe: Ivani MMMMMM
+- Data de Nascimento: 10/12/1800
+- Idade: 150 anos 
+- Série: 4 semestre da faculdade 
+- Faculdade: Univercidade Anhanguera 
+- Confirmar Cadastro: 
+-----------------------
